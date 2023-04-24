@@ -1,0 +1,47 @@
+.subjectHeader{
+	color: blue;
+	font-family: sans-serif;
+}
+
+th{
+	color: red;
+	border: 1px solid;
+	border-color: red;
+}
+
+td{
+	color: purple;
+	border: 1px solid;
+	border-color: red;
+
+}
+table {
+	text-align: center;
+	color: red;
+	border: 1px solid;
+}
+
+ul{
+	list-style: square;
+
+}
+
+a.hyperLink{
+	text-decoration: none;
+	color: steelblue;
+}
+
+a.hyperLink:hover {
+	background-color: darkorange;
+	text-decoration: none;
+}
+
+blockquote {
+	background-color: black;
+	color: white;
+}
+
+ul.checkbox-grid{
+	list-style: none;
+}
+
